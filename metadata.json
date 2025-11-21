@@ -1,0 +1,5 @@
+{
+  "name": "CollabFlow - 自媒体商务助手",
+  "description": "专为博主设计的商务合作管理工具。AI自动整理合作邀约，一键批量生成回复，支持自定义模版与Excel导出。",
+  "requestFramePermissions": []
+}
